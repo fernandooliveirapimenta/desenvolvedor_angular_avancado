@@ -1,0 +1,6 @@
+net scap criou javascript
+e criou o primeiro browser
+ECMA - European computer manufacturers association - padrões 
+padrão para linguagens de script
+ECMA 6 - especificação do javascript
+
